@@ -80,7 +80,7 @@ class RinkuDiwakar:
   <a href="https://medium.com/@rinkudiwakar" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>&nbsp;
-  <a href="mailto:diwakar.active@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#83e7eaf4e2e8e2f1ade2e0f7eaf5e6c3e4eee2eaefade0ecee">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -189,6 +189,14 @@ class RinkuDiwakar:
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinkudiwakar&theme=tokyo-night&hide_border=true&area=true&color=A855F7&line=A855F7&point=ffffff" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🏅 Achievements & Highlights
 
 | 🏆 Achievement | 📌 Detail |
@@ -218,6 +226,4 @@ class RinkuDiwakar:
   <img src="https://komarev.com/ghpvc/?username=rinkudiwakar&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
-<p align="center">⭐ <em>If you like my work, consider giving my repos a star!</em> ⭐</p>
-
-<!-- README by Rinku Diwakar -->
+<p align="center">⭐ <em>If you like my work, consider giving my repos a star!<
