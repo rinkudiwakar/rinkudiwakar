@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <strong>Rinku Diwakar</strong></h1>
 
-<h3 align="center">🤖 AI/ML Engineer &nbsp;·&nbsp; 💡 Entrepreneur &nbsp;·&nbsp; 📊 Data Enthusiast &nbsp;·&nbsp; ⚡ EE @ NIT Jalandhar</h3>
+<h3 align="center">🤖 AI Systems Engineer · MLOps · LLMs (RAG) · Kubernetes (EKS)</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,37 +27,61 @@
 ```python
 class RinkuDiwakar:
     def __init__(self):
-        self.name         = "Rinku Diwakar"
-        self.role         = "B.Tech Electrical Engineering @ NIT Jalandhar"
-        self.location     = "Jalandhar, Punjab 🇮🇳"
-        self.passion      = ["AI/ML", "Entrepreneurship", "Data Science", "Full Stack"]
-        self.building     = "MessOS – B2B SaaS platform for mess management 🍽️"
-        self.learning     = ["MLOps", "LLMs", "Advanced Deep Learning", "Power BI"]
-        self.ask_me_about = ["Python", "ML Models", "Data Pipelines", "Startups"]
+        self.name = "Rinku Diwakar"
+        self.role = "AI Systems Engineer (ML + MLOps + LLMs)"
+        self.location = "Jalandhar, Punjab 🇮🇳"
+
+        self.focus = [
+            "RAG Systems & LLM Applications",
+            "End-to-End ML Pipelines",
+            "MLOps (DVC, MLflow, CI/CD)",
+            "Scalable Deployment (Docker, Kubernetes, AWS EKS)"
+        ]
+
+        self.building = [
+            "SkillGap AI – RAG-based system for resume analysis & learning roadmap generation",
+            "Production ML systems with full MLOps pipelines and cloud deployment"
+        ]
+
+        self.experience = [
+            "Built and deployed ML systems using AWS (EC2, S3, EKS)",
+            "Implemented CI/CD pipelines with GitHub Actions",
+            "Designed monitoring systems using Prometheus & Grafana"
+        ]
+
+        self.ask_me_about = [
+            "LLMs & RAG",
+            "ML System Design",
+            "Model Deployment & Scaling",
+            "MLOps Pipelines"
+        ]
+
+        self.mindset = "I build AI systems that work in real-world conditions, not just notebooks."
         self.fun_fact     = "School Topper in 12th & District Topper in 10th 🏆"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+    def value(self):
+        return "Design → Build → Deploy → Monitor AI systems end-to-end"
 ```
 
-- 🔭 I'm currently working on **[MessOS](https://github.com/rinkudiwakar/MessOS)** — a B2B SaaS platform with Mess Manager, Munshi & Clerk portals
+- 🔭 I'm currently working on **[SkillGap AI](https://github.com/rinkudiwakar/SkillGap-AI)** — SkillGap AI analyzes your resume and job description using semantic embeddings to measure true fit.
 - 🤝 I'm looking to collaborate on **AI/ML projects, Data Analytics & Startup ventures**
 - 🛠️ I'm looking for help with **scaling ML pipelines & deploying production-ready AI apps**
 - 🌱 I'm currently learning **MLOps, LLMs, Power BI & Advanced Deep Learning**
 - 💬 Ask me about **Data Science, Python, MySQL, C/C++, DSA & Building Startups**
 - ⚡ Fun fact: **School Topper in 12th & District Topper in 10th — now teaching machines to think!**
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 AI Systems & ML Projects
 
-| Project | Description | Tech |
+| Project | Description | Stack |
 |--------|-------------|------|
-| 🍽️ **[MessOS](https://github.com/rinkudiwakar/MessOS)** | B2B SaaS – Mess Manager, Munshi & Clerk portals | TypeScript |
+| 🧠 **[SkillGap AI](https://github.com/rinkudiwakar/SkillGap-AI)** | RAG-based system for resume analysis, skill gap detection, ATS optimization & learning roadmap generation | LLMs, LangChain, Vector DB, Python |
 | 🔐 **[Kavach](https://github.com/rinkudiwakar/Kavach)** | Voice Detection Smart Door Unlock System | Python |
-| 🚗 **[Vehicle Insurance Pipeline](https://github.com/rinkudiwakar/Vehicle-Insurance-Domain-Project)** | Robust ML pipeline for vehicle insurance data | Jupyter |
-| 🏍️ **[Bike Price Predictor](https://github.com/rinkudiwakar/Bike_prediction_web_app)** | ML-powered bike price prediction web app | Jupyter |
+| ⚙️ **[MovieSentiment (Production ML System)](https://github.com/rinkudiwakar/Movie-Sentiment-Prediction)** | Full-stack ML system with MLOps pipeline, CI/CD, deployed on AWS EKS with monitoring | MLflow, DVC, Docker, Kubernetes, AWS |
+| 📊 **[Vehicle Insurance ML Pipeline](https://github.com/rinkudiwakar/Vehicle-Insurance-Domain-Project)** | End-to-end ML pipeline with deployment, tracking & versioning | Scikit-learn, MLflow, DVC, MongoDB |
 | 📊 **[Dairy Power BI Dashboard](https://github.com/rinkudiwakar/Dairy-Datasets-Power-BI-Visualisation)** | Data visualisation on dairy datasets | Power BI |
+| 🏍️ **[Bike Price Prediction System](https://github.com/rinkudiwakar/Bike_prediction_web_app)** | Regression model with feature engineering & Flask API deployment | XGBoost, Flask, AWS |
+| 🧠 **Autism Detection (CV Research)** | Deep learning-based computer vision system for real-world dataset | CNN, OpenCV, Python |
 | ⚙️ **[MLOps](https://github.com/rinkudiwakar/MLOps)** | End-to-end MLOps learning & implementation | Jupyter |
 
 ---
@@ -84,6 +108,18 @@ class RinkuDiwakar:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
+
+## 🧠 AI Engineering Focus
+
+- Retrieval-Augmented Generation (RAG)
+- LLM APIs (OpenAI, Hugging Face)
+- Vector Databases & Semantic Search
+- End-to-End ML Pipelines
+- Model Deployment & Monitoring
+- MLOps (CI/CD, Experiment Tracking, Versioning)
+- Scalable Systems (Docker, Kubernetes, AWS)
 
 ---
 
